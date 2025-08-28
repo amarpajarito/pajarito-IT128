@@ -1,0 +1,6 @@
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\PajaritoLE2\PajaritoBlogDB\bin\Debug\PajaritoBlogDB.dacpac
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\PajaritoLE2\PajaritoBlogDB\bin\Debug\PajaritoBlogDB.dll
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\PajaritoLE2\PajaritoBlogDB\bin\Debug\PajaritoBlogDB.pdb
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\PajaritoLE2\PajaritoBlogDB\obj\Debug\PajaritoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\PajaritoLE2\PajaritoBlogDB\obj\Debug\PajaritoBlogDB.dll
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\PajaritoLE2\PajaritoBlogDB\obj\Debug\PajaritoBlogDB.pdb
