@@ -1,0 +1,13 @@
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\bin\Debug\net9.0\BlogDataLibrary.deps.json
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\bin\Debug\net9.0\BlogDataLibrary.dll
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\bin\Debug\net9.0\BlogDataLibrary.pdb
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\BlogDataLibrary.csproj.AssemblyReference.cache
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\BlogDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\BlogDataLibrary.AssemblyInfoInputs.cache
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\BlogDataLibrary.AssemblyInfo.cs
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\BlogDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\BlogDataLibrary.sourcelink.json
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\BlogDataLibrary.dll
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\refint\BlogDataLibrary.dll
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\BlogDataLibrary.pdb
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoLE4\PajaritoLE2\BlogDataLibrary\obj\Debug\net9.0\ref\BlogDataLibrary.dll
