@@ -1,12 +1,113 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|solutionrelative:PajaritoBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spUsers_Authenticate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|solutionrelative:PajaritoBlogDB\\Stored Procedures\\spUsers_Authenticate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_List.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|solutionrelative:PajaritoBlogDB\\Stored Procedures\\spPosts_List.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_Insert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|solutionrelative:PajaritoBlogDB\\Stored Procedures\\spPosts_Insert.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_Details.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|solutionrelative:PajaritoBlogDB\\Stored Procedures\\spPosts_Details.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BlogTestUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{CB2FD18A-EB8A-4EC9-9D17-154B4C97D6E0}|PajaritoBlogDB\\PajaritoBlogDB.sqlproj|solutionrelative:PajaritoBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "spUsers_Register.sql ",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spUsers_Register.sql",
+              "RelativeDocumentMoniker": "PajaritoBlogDB\\Stored Procedures\\spUsers_Register.sql",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spUsers_Register.sql\r\n(localdb)\\ProjectModels.PajaritoBlogDB_1\r\n(AMAR-TUFGAMING\\Amar Pajarito)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T15:43:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spUsers_Authenticate.sql",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spUsers_Authenticate.sql",
+              "RelativeDocumentMoniker": "PajaritoBlogDB\\Stored Procedures\\spUsers_Authenticate.sql",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spUsers_Authenticate.sql\r\n(localdb)\\ProjectModels.PajaritoBlogDB_1\r\n(AMAR-TUFGAMING\\Amar Pajarito)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T15:43:16.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "spPosts_List.sql",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_List.sql",
+              "RelativeDocumentMoniker": "PajaritoBlogDB\\Stored Procedures\\spPosts_List.sql",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_List.sql\r\n(localdb)\\ProjectModels.PajaritoBlogDB_1\r\n(AMAR-TUFGAMING\\Amar Pajarito)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T15:43:15.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "spPosts_Insert.sql",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_Insert.sql",
+              "RelativeDocumentMoniker": "PajaritoBlogDB\\Stored Procedures\\spPosts_Insert.sql",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_Insert.sql\r\n(localdb)\\ProjectModels.PajaritoBlogDB_1\r\n(AMAR-TUFGAMING\\Amar Pajarito)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T15:43:13.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "spPosts_Details.sql",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_Details.sql",
+              "RelativeDocumentMoniker": "PajaritoBlogDB\\Stored Procedures\\spPosts_Details.sql",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\PajaritoBlogDB\\Stored Procedures\\spPosts_Details.sql\r\n(localdb)\\ProjectModels.PajaritoBlogDB_1\r\n(AMAR-TUFGAMING\\Amar Pajarito)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-17T15:43:07.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogTestUI",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\BlogTestUI\\BlogTestUI.csproj",
+              "RelativeDocumentMoniker": "BlogTestUI\\BlogTestUI.csproj",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE3\\PajaritoLE2\\BlogTestUI\\BlogTestUI.csproj",
+              "RelativeToolTip": "BlogTestUI\\BlogTestUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-17T15:35:53.289Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
