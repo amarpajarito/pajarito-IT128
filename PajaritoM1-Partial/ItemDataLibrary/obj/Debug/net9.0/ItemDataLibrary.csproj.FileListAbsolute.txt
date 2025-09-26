@@ -1,0 +1,12 @@
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\bin\Debug\net9.0\ItemDataLibrary.deps.json
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\bin\Debug\net9.0\ItemDataLibrary.dll
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\bin\Debug\net9.0\ItemDataLibrary.pdb
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\ItemDataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\ItemDataLibrary.AssemblyInfoInputs.cache
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\ItemDataLibrary.AssemblyInfo.cs
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\ItemDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\ItemDataLibrary.sourcelink.json
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\ItemDataLibrary.dll
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\refint\ItemDataLibrary.dll
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\ItemDataLibrary.pdb
+C:\Users\Amar Pajarito\Documents\College Files\3RD_TERM1\ITS152L\pajarito-IT128\PajaritoM1-Partial\ItemDataLibrary\obj\Debug\net9.0\ref\ItemDataLibrary.dll

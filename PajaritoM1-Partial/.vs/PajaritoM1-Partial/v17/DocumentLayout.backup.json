@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF8B4A-D24D-4B2E-AEB7-36C56D46F7DD}|ItemAPI\\ItemAPI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF8B4A-D24D-4B2E-AEB7-36C56D46F7DD}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DC158B-98B3-46FE-BFF2-80A650B49225}|ItemFormsUI\\ItemFormsUI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemformsui\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DC158B-98B3-46FE-BFF2-80A650B49225}|ItemFormsUI\\ItemFormsUI.csproj|solutionrelative:itemformsui\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DC158B-98B3-46FE-BFF2-80A650B49225}|ItemFormsUI\\ItemFormsUI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemformsui\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3DC158B-98B3-46FE-BFF2-80A650B49225}|ItemFormsUI\\ItemFormsUI.csproj|solutionrelative:itemformsui\\inventoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF8B4A-D24D-4B2E-AEB7-36C56D46F7DD}|ItemAPI\\ItemAPI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4FF8B4A-D24D-4B2E-AEB7-36C56D46F7DD}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF8B4A-D24D-4B2E-AEB7-36C56D46F7DD}|ItemAPI\\ItemAPI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemapi\\itemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C4FF8B4A-D24D-4B2E-AEB7-36C56D46F7DD}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\itemapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4FF8B4A-D24D-4B2E-AEB7-36C56D46F7DD}|ItemAPI\\ItemAPI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4FF8B4A-D24D-4B2E-AEB7-36C56D46F7DD}|ItemAPI\\ItemAPI.csproj|solutionrelative:itemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92D3081-A7CC-478D-A4C1-BF454A3A633F}|ItemDataLibrary\\ItemDataLibrary.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemdatalibrary\\model\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92D3081-A7CC-478D-A4C1-BF454A3A633F}|ItemDataLibrary\\ItemDataLibrary.csproj|solutionrelative:itemdatalibrary\\model\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DC158B-98B3-46FE-BFF2-80A650B49225}|ItemFormsUI\\ItemFormsUI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemformsui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DC158B-98B3-46FE-BFF2-80A650B49225}|ItemFormsUI\\ItemFormsUI.csproj|solutionrelative:itemformsui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DC158B-98B3-46FE-BFF2-80A650B49225}|ItemFormsUI\\ItemFormsUI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritom1-partial\\itemformsui\\inventoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DC158B-98B3-46FE-BFF2-80A650B49225}|ItemFormsUI\\ItemFormsUI.csproj|solutionrelative:itemformsui\\inventoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemAPI.http",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemAPI\\ItemAPI.http",
+              "RelativeDocumentMoniker": "ItemAPI\\ItemAPI.http",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemAPI\\ItemAPI.http",
+              "RelativeToolTip": "ItemAPI\\ItemAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-26T11:55:03.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ItemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemAPI\\Program.cs",
+              "RelativeToolTip": "ItemAPI\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:50:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ItemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemAPI\\appsettings.json",
+              "RelativeToolTip": "ItemAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-26T11:49:52.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemAPI\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ItemAPI\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemAPI\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ItemAPI\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:45:09.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemFormsUI\\InventoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "ItemFormsUI\\InventoryForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemFormsUI\\InventoryForm.Designer.cs",
+              "RelativeToolTip": "ItemFormsUI\\InventoryForm.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T10:24:29.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemFormsUI\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "ItemFormsUI\\InventoryForm.cs",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemFormsUI\\InventoryForm.cs [Design]",
+              "RelativeToolTip": "ItemFormsUI\\InventoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:18:30.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemFormsUI\\InventoryForm.cs",
+              "RelativeDocumentMoniker": "ItemFormsUI\\InventoryForm.cs",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemFormsUI\\InventoryForm.cs",
+              "RelativeToolTip": "ItemFormsUI\\InventoryForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwP4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T10:23:37.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemFormsUI\\Program.cs",
+              "RelativeDocumentMoniker": "ItemFormsUI\\Program.cs",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemFormsUI\\Program.cs",
+              "RelativeToolTip": "ItemFormsUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:58:25.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemDataLibrary\\Model\\ItemModel.cs",
+              "RelativeDocumentMoniker": "ItemDataLibrary\\Model\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoM1-Partial\\ItemDataLibrary\\Model\\ItemModel.cs",
+              "RelativeToolTip": "ItemDataLibrary\\Model\\ItemModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T11:37:07.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

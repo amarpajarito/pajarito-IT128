@@ -1,0 +1,6 @@
+@ItemAPI_HostAddress = http://localhost:5064
+
+GET {{ItemAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
