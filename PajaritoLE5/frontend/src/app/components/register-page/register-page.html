@@ -1,0 +1,49 @@
+<div>
+  <h1>Register</h1>
+  <h3>Create an Account</h3>
+  <form name="form" (ngSubmit)="onSubmit()" #f="ngForm" novalidate>
+    <div>
+      <div>
+        <label for="username">Username</label>
+        <input
+          required
+          type="text"
+          name="username"
+          [(ngModel)]="form.username"
+          #username="ngModel"
+        />
+      </div>
+      <div>
+        <label for="password">Password</label>
+        <input
+          required
+          type="password"
+          name="password"
+          [(ngModel)]="form.password"
+          #password="ngModel"
+        />
+      </div>
+      <div>
+        <label for="firstName">First Name</label>
+        <input
+          required
+          type="text"
+          name="firstName"
+          [(ngModel)]="form.firstName"
+          #firstName="ngModel"
+        />
+      </div>
+      <div>
+        <label for="lastName">Last Name</label>
+        <input
+          required
+          type="text"
+          name="lastName"
+          [(ngModel)]="form.lastName"
+          #lastName="ngModel"
+        />
+      </div>
+    </div>
+    <button>Submit</button>
+  </form>
+</div>
