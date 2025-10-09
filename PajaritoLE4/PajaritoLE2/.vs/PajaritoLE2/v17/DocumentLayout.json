@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE4\\PajaritoLE2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D42399D1-696E-439E-B998-05CB426C3DF3}|BlogAPI\\BlogAPI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritole4\\pajaritole2\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42399D1-696E-439E-B998-05CB426C3DF3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D42399D1-696E-439E-B998-05CB426C3DF3}|BlogAPI\\BlogAPI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritole4\\pajaritole2\\blogapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D42399D1-696E-439E-B998-05CB426C3DF3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2D3E781-6EC3-4709-80FD-082B53160A38}|BlogDataLibrary\\BlogDataLibrary.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritole4\\pajaritole2\\blogdatalibrary\\postform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2D3E781-6EC3-4709-80FD-082B53160A38}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\postform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D42399D1-696E-439E-B998-05CB426C3DF3}|BlogAPI\\BlogAPI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritole4\\pajaritole2\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D42399D1-696E-439E-B998-05CB426C3DF3}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D42399D1-696E-439E-B998-05CB426C3DF3}|BlogAPI\\BlogAPI.csproj|c:\\users\\amar pajarito\\documents\\college files\\3rd_term1\\its152l\\pajarito-it128\\pajaritole4\\pajaritole2\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -37,21 +37,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "dbo.Users [Data]",
+              "Title": "dbo.Users.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/BlogDB/True/SqlTable/dbo.Users.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-18T04:12:45.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T04:12:45.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PostController.cs",
               "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE4\\PajaritoLE2\\BlogAPI\\Controllers\\PostController.cs",
               "RelativeDocumentMoniker": "BlogAPI\\Controllers\\PostController.cs",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "BlogAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-18T02:51:18.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T02:51:18.489Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "BlogDataLibrary\\Models\\UserLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T02:50:38.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T02:50:38.375Z"
             },
             {
               "$type": "Document",
@@ -98,12 +95,11 @@
               "RelativeToolTip": "BlogAPI\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAA3wEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T02:50:06.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T02:50:06.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PostForm.cs",
               "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE4\\PajaritoLE2\\BlogDataLibrary\\PostForm.cs",
               "RelativeDocumentMoniker": "BlogDataLibrary\\PostForm.cs",
@@ -111,18 +107,17 @@
               "RelativeToolTip": "BlogDataLibrary\\PostForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:43:46.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T03:43:46.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE4\\PajaritoLE2\\BlogAPI\\Program.cs",
               "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Amar Pajarito\\Documents\\College Files\\3RD_TERM1\\ITS152L\\pajarito-IT128\\PajaritoLE4\\PajaritoLE2\\BlogAPI\\Program.cs",
               "RelativeToolTip": "BlogAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T02:49:20.624Z",
               "EditorCaption": ""
