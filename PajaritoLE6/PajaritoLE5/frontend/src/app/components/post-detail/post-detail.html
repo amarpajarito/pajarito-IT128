@@ -1,0 +1,31 @@
+<div class="post-detail-container">
+  <div class="post-detail-card">
+    <div class="post-header">
+      <button type="button" class="back-button" (click)="goBack()">← Back to Posts</button>
+    </div>
+
+    <div class="loading-state" *ngIf="!post && !error">
+      <p class="loading-message">Loading post...</p>
+    </div>
+
+    <article class="post-content" *ngIf="post">
+      <h1 class="post-title">{{ post.title }}</h1>
+
+      <div class="post-meta">
+        <span class="post-author">{{ post.firstName }} {{ post.lastName }}</span>
+        <span class="post-separator">•</span>
+        <span class="post-date">{{ post.dateCreated | date : 'mediumDate' }}</span>
+      </div>
+
+      <div class="post-body">
+        <p>{{ post.body }}</p>
+      </div>
+    </article>
+
+    <div class="empty-state" *ngIf="!post && error">
+      <p class="empty-message">Post not found</p>
+      <p class="empty-subtitle">The post you're looking for doesn't exist</p>
+      <button type="button" class="back-button-alt" (click)="goBack()">Go Back</button>
+    </div>
+  </div>
+</div>

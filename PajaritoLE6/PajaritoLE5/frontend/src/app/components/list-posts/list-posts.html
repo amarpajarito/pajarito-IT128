@@ -1,0 +1,32 @@
+<div class="posts-container">
+  <div class="posts-header">
+    <div class="header-content">
+      <div class="header-text">
+        <h1 class="posts-title">Your Posts</h1>
+        <p class="posts-subtitle">View and manage all your posts</p>
+      </div>
+      <div class="header-actions">
+        <button type="button" class="add-post-button" (click)="addPost()">+ Add Post</button>
+        <button type="button" class="logout-button" (click)="logout()">Logout</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="posts-list">
+    <div class="post-card" *ngFor="let post of posts">
+      <h3 class="post-title">
+        <a [routerLink]="['/post', post.id]" class="post-link">{{ post.title }}</a>
+      </h3>
+      <div class="post-meta">
+        <span class="post-author">{{ post.firstName }} {{ post.lastName }}</span>
+        <span class="post-separator">•</span>
+        <span class="post-date">{{ post.dateCreated | date : 'mediumDate' }}</span>
+      </div>
+    </div>
+
+    <div class="empty-state" *ngIf="!posts || posts.length === 0">
+      <p class="empty-message">No posts yet</p>
+      <p class="empty-subtitle">Start creating your first post</p>
+    </div>
+  </div>
+</div>

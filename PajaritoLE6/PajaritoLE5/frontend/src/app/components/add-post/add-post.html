@@ -1,0 +1,52 @@
+<div class="add-post-container">
+  <div class="add-post-card">
+    <div class="add-post-header">
+      <button type="button" class="back-button" (click)="goBack()">← Back to Posts</button>
+      <h1 class="add-post-title">Create New Post</h1>
+      <p class="add-post-subtitle">Share what's on your mind</p>
+    </div>
+
+    <form name="form" (ngSubmit)="onSubmit()" #f="ngForm" novalidate class="add-post-form">
+      <div class="form-group">
+        <label for="title" class="form-label">Title</label>
+        <input
+          id="title"
+          required
+          type="text"
+          name="title"
+          [(ngModel)]="form.title"
+          #title="ngModel"
+          class="form-input"
+          placeholder="Enter post title"
+          [class.input-error]="title.invalid && title.touched"
+        />
+        <span class="error-message" *ngIf="title.invalid && title.touched">
+          Title is required
+        </span>
+      </div>
+
+      <div class="form-group">
+        <label for="body" class="form-label">Content</label>
+        <textarea
+          id="body"
+          required
+          name="body"
+          [(ngModel)]="form.body"
+          #body="ngModel"
+          class="form-textarea"
+          placeholder="Write your post content here..."
+          rows="10"
+          [class.input-error]="body.invalid && body.touched"
+        ></textarea>
+        <span class="error-message" *ngIf="body.invalid && body.touched">
+          Content is required
+        </span>
+      </div>
+
+      <div class="form-actions">
+        <button type="button" class="cancel-button" (click)="goBack()">Cancel</button>
+        <button type="submit" class="submit-button" [disabled]="f.invalid">Publish Post</button>
+      </div>
+    </form>
+  </div>
+</div>
